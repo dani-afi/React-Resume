@@ -63,5 +63,11 @@
 @media screen and (max-width:600px){
     .experience__container{
         gap: 1rem;
+        flex-direction: column;
+    }
+    .experience__content{
+        display: flex;
+        flex-direction: column;
     }
 }
+    
