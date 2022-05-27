@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Resume/static/css/main.4ca22b11.css",
+    "main.js": "/React-Resume/static/js/main.ff2344eb.js",
+    "static/media/port3.PNG": "/React-Resume/static/media/port3.49ef9d774b3c960408b5.PNG",
+    "static/media/port2.PNG": "/React-Resume/static/media/port2.15f98f63673a1f3d1f14.PNG",
+    "static/media/avatar2.PNG": "/React-Resume/static/media/avatar2.16cce1811efb3102f3e3.PNG",
+    "static/media/avatar3.PNG": "/React-Resume/static/media/avatar3.2e189101c1e84506af7e.PNG",
+    "static/media/port1.PNG": "/React-Resume/static/media/port1.97c46ea2ec9ebe3e122f.PNG",
+    "static/media/port5.PNG": "/React-Resume/static/media/port5.f19478dee8e459a2963d.PNG",
+    "static/media/port4.PNG": "/React-Resume/static/media/port4.0e7c966012439d2ecf41.PNG",
+    "static/media/avatar4.PNG": "/React-Resume/static/media/avatar4.3f8fc65683ba4857ca5d.PNG",
+    "static/media/avatar1.PNG": "/React-Resume/static/media/avatar1.e91833658e7807635424.PNG",
+    "static/media/me.PNG": "/React-Resume/static/media/me.ff597205bc5cf8bbafa5.PNG",
+    "static/media/Came1.PNG": "/React-Resume/static/media/Came1.1e2e7b6b5a5672792aec.PNG",
+    "static/media/Afilipoaie+Daniel+.pdf": "/React-Resume/static/media/Afilipoaie+Daniel+.49a79f95214270b5d9ea.pdf",
+    "static/media/port6.PNG": "/React-Resume/static/media/port6.8823cb2b0f30d38ff919.PNG",
+    "index.html": "/React-Resume/index.html",
+    "main.4ca22b11.css.map": "/React-Resume/static/css/main.4ca22b11.css.map",
+    "main.ff2344eb.js.map": "/React-Resume/static/js/main.ff2344eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ca22b11.css",
+    "static/js/main.ff2344eb.js"
+  ]
+}
